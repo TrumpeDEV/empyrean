@@ -1,3 +1,4 @@
+pyhints
 psutil
 requests
 wmi
